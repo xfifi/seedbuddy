@@ -28,6 +28,7 @@
     "lint-staged": "^8.1.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
+    "vue-analytics": "^5.16.2",
     "vue-cli-plugin-electron-builder": "^1.1.0",
     "vue-cli-plugin-vuetify": "^0.4.6",
     "vue-template-compiler": "^2.5.21",
